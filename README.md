@@ -26,7 +26,7 @@ Conforme solicitado na proposta do projeto, as seguintes funcionalidades foram i
 
 ## 🛠️ Como Utilizar
 
-1. Acesse o link do projeto via GitHub Pages: `[(https://eiblame.github.io/Or-amentos---seetickets/)]`
+1. Acesse o link do projeto via GitHub Pages: https://eiblame.github.io/Or-amentos---seetickets/
 2. Credenciais de acesso padrão:
    - **E-mail:** `admin@email.com`
    - **Senha:** `123456`
